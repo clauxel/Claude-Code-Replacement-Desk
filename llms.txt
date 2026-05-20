@@ -1,0 +1,11 @@
+# Claude Code Replacement Desk
+
+Claude Code Replacement Desk is a SaaS workspace for Claude Code replacement planner.
+
+Website: https://claudecodereplacement.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Claude Code replacement planner
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
